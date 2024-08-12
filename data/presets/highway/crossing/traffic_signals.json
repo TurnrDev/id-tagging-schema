@@ -21,7 +21,8 @@
     ],
     "tags": {
         "highway": "crossing",
-        "crossing": "traffic_signals"
+        "crossing": "traffic_signals",
+        "crossing:signals": "yes"
     },
     "reference": {
         "key": "crossing",
